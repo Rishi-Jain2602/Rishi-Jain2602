@@ -7,7 +7,7 @@
 
 **Hi, I am Rishi Jain!**
 
-- Currently pursuing B-Tech from National Institute of Technology, Karnataka (NITK)
+- Currently, pursuing B-Tech from National Institute of Technology, Karnataka (NITK)
 - A Passionate student specializing in Machine learning, Deep Learning and Natural Language Processing(NLP).
 - Equipped with theoretical expertise and a hands-on approach, eager to contribute to diverse projects of Machine Learning & Deep Learning and push the boundaries of Artificial Intelligence.
 
