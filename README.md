@@ -7,11 +7,9 @@
 
 **Hi, I am Rishi Jain!**
 
-- Currently, pursuing B-Tech from National Institute of Technology, Karnataka (NITK)
-- A Passionate student specializing in Machine learning, Deep Learning and Natural Language Processing(NLP).
-- Equipped with theoretical expertise and a hands-on approach, eager to contribute to diverse projects of Machine Learning & Deep Learning and push the boundaries of Artificial Intelligence.
-
-
+- B-Tech student at NITK, specializing in Machine Learning, Deep Learning, and NLP, with a strong theoretical foundation and hands-on AI experience.
+- Developed RAG applications and LLM-based solutions during internships at NeetPrep and Envigo, working extensively with OpenAI and Hugging Face models.
+- Passionate about contributing to innovative AI projects, driving advancements in Machine Learning, Deep Learning, and Artificial Intelligence.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
